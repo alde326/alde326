@@ -12,7 +12,7 @@ Welcome to my code corner! 🚀 I'm Aldemar Vivas, a tech enthusiast and softwar
 
 ...
 🤝 Connect with Me
-I'm always open to new connections and collaborations! Feel free to reach out to me on [LinkedIn]([Link to your LinkedIn profile](https://co.linkedin.com/in/aldemar-vivas-26363b224)) or [Instagram]([Link to your Twitter profile](https://www.instagram.com/alde_vivas?igsh=MTJxY2lvZjFmM3FhcA==)).
+I'm always open to new connections and collaborations! Feel free to reach out to me on [LinkedIn](https://co.linkedin.com/in/aldemar-vivas-26363b224) or [Instagram](https://www.instagram.com/alde_vivas?igsh=MTJxY2lvZjFmM3FhcA==).
 
 🎯 Goals
 Graduate from career.
