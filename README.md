@@ -1,7 +1,7 @@
 ### Hi there 👋
 Welcome to my code corner! 🚀 I'm Aldemar Vivas, a tech enthusiast and software developer. Here you'll find a collection of fascinating projects, innovative ideas, and a glimpse of my creativity translated into code.
 
-###💻 About Me
+💻 About Me
 
 🌐 Enthusiastic developer, always exploring new technologies.
 
@@ -9,17 +9,17 @@ Welcome to my code corner! 🚀 I'm Aldemar Vivas, a tech enthusiast and softwar
 
 🚀 Passionate about crafting elegant and efficient solutions.
 
-###🛠️ Technologies and Tools
+🛠️ Technologies and Tools
 💡 Favorite technologies: Python, PHP, CSS, PostgreSQL, JavaScript, SQLite and MongoDB
 
 🛠️ Essential tools: Visual Studio Code, Eclipse, Git, GitHub, Slack, Discord, Docker, pip, npm
 <!--📝 Currently exploring:  -->
 
 
-###🤝 Connect with Me
+🤝 Connect with Me
 I'm always open to new connections and collaborations! Feel free to reach out to me on [LinkedIn](https://co.linkedin.com/in/aldemar-vivas-26363b224) or [Instagram](https://www.instagram.com/alde_vivas?igsh=MTJxY2lvZjFmM3FhcA==).
 
-###🎯 Goals
+🎯 Goals
 Graduate from career.
 Learn AI to specialize in it.
 Building My Own Enterprise.
